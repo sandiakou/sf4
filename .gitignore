@@ -13,9 +13,9 @@
 .phpunit
 .phpunit.result.cache
 /phpunit.xml
+/SF4.code-workspace
 ###< symfony/phpunit-bridge ###
 
-/SF4.code-workspace
 ###> symfony/web-server-bundle ###
 /.web-server-pid
 ###< symfony/web-server-bundle ###
